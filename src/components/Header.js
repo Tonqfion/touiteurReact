@@ -9,7 +9,7 @@ class Header extends React.Component {
                     TOUITEUR LE RETOUR
                 </div>
                 <h1 className="text-3xl">
-                    Parce que c'est l'heure de touiter again
+                    Parce que c'est l'time de touiter again
                 </h1>
                 </div>
             </header>
