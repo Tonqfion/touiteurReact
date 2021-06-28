@@ -5,12 +5,11 @@ class Header extends React.Component {
         return (
             <header className="bg-indigo-400 text-white" >
                 <div className="container flex items-center justify-between mx-auto h-24">
-                <div id="logo" className="">
+                <logo id="logo" className="">
                     TOUITEUR LE RETOUR
-                </div>
+                </logo>
                 <h1 className="text-3xl">
-                    Parce que c'est l'time de touiter again
-                    yiha !
+                    Parce que c'est l'time de touiter
                 </h1>
                 </div>
             </header>
@@ -19,3 +18,4 @@ class Header extends React.Component {
 }
 
 export default Header;
+
