@@ -5,9 +5,9 @@ class Header extends React.Component {
         return (
             <header className="bg-indigo-400 text-white" >
                 <div className="container flex items-center justify-between mx-auto h-24">
-                <logo id="logo" className="">
+                <div id="logo" className="">
                     TOUITEUR LE RETOUR
-                </logo>
+                </div>
                 <h1 className="text-3xl">
                     Parce que c'est l'time de touiter
                 </h1>
